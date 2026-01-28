@@ -37,9 +37,12 @@ The design uses warm cream, brown, and gold-inspired tones to reflect Indian roy
 ## ▶️ Getting Started
 
 1. Clone the repository
+
    ```bash
-   git clone
+   git clone https://github.com/PalakJain1504/chaiCulture-ComingSoonLandingPage.git
+
    ```
+
 2. Install dependencies
    npm install
 3. Run the project
