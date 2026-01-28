@@ -32,7 +32,7 @@ The design uses warm cream, brown, and gold-inspired tones to reflect Indian roy
 
 ## 📂 GitHub Repository
 
-👉
+👉 https://github.com/PalakJain1504/chaiCulture-ComingSoonLandingPage
 
 ## ▶️ Getting Started
 
