@@ -1,16 +1,46 @@
-# React + Vite
+# Chai Culture – Coming Soon Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium, responsive “Coming Soon” landing page built for **Chai Culture**, a brand inspired by the royal tradition of Indian chai.
 
-Currently, two official plugins are available:
+## ✨ Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This landing page introduces the Chai Culture brand ahead of launch, focusing on elegance, warmth, and heritage. The design reflects a luxury Indian aesthetic using warm tones, refined typography, and minimal animations.
 
-## React Compiler
+## 🛠 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Tailwind CSS
+- Framer Motion (subtle animations)
 
-## Expanding the ESLint configuration
+## 🎯 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Clean, editorial-style layout
+- Mobile-responsive design
+- Email signup section
+- Countdown timer (placeholder)
+- Social media links
+- Modular, reusable React components
+- Subtle luxury animations
+
+## 🎨 Design Approach
+
+The design uses warm cream, brown, and gold-inspired tones to reflect Indian royalty and premium craftsmanship. Minimal layouts and soft animations were chosen to maintain a calm, elegant brand presence.
+
+## 🚀 Live Demo
+
+👉
+
+## 📂 GitHub Repository
+
+👉
+
+## ▶️ Getting Started
+
+1. Clone the repository
+   ```bash
+   git clone
+   ```
+2. Install dependencies
+   npm install
+3. Run the project
+   npm run dev
